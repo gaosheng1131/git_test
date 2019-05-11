@@ -5,8 +5,8 @@ using namespace std;
 int main()
 {
 
-	cout << "test success!" << endl;
-	cout << "test2 success!" << endl;
+	cout << "we" << endl;
+	cout << "we add" << endl;
 	system("pause");
 	return EXIT_SUCCESS;
 }
